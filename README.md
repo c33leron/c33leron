@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб-разработчик, пока учусь<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+Я начинающий веб-разработчик, пока учусь и пробую себя в разных направлениях IT<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
