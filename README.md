@@ -11,7 +11,7 @@
 </p>
 
 
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Shotta-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/meowbabee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bobylevoff@gmail.com)
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Bogdan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/germnocap) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bobylevoff@gmail.com)
 
 ---
 
